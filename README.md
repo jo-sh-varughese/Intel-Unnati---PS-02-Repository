@@ -36,4 +36,4 @@ AI Health Advisor is an intelligent system designed to provide health recommenda
 
 ## Contact
 
-For any questions or suggestions, feel free to reach out at your-johansvarughese.b23cs2135@mbcet.ac.in
+For any questions or suggestions, feel free to reach out at johansvarughese.b23cs2135@mbcet.ac.in
